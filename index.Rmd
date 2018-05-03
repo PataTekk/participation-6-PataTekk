@@ -1,0 +1,19 @@
+---
+title: "Participation-6"
+output: html_document
+---
+
+```{r include=FALSE}
+library(knitr)
+source("ggplot.R")
+```
+
+## ggplots
+
+```{r echo = FALSE}
+one
+two
+three
+four
+five
+```
